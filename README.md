@@ -1,6 +1,7 @@
 <!-- -->
 
-![image](https://drive.google.com/file/d/1NNPGywXsazt7MIviS_f1RNIJS_TLz7YB/view?usp=sharing)
+![image][bBack and Yellow  Personal Trainer Linkedin Banner (1)]
+_TLz7YB/view?usp=sharing)
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60px" height="60px" />
 
 This is  Bala Murugan and I'm a software developer/ Cyber Security enthusiast. I'm from India, living in Chennai and currently doing computer science engineering final year. You can find me on [LinkedIn](https://www.linkedin.com/in/bala-murugan-ganesan/).
