@@ -28,17 +28,17 @@ This is  Bala Murugan and I'm a software developer/ Cyber Security enthusiast. I
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/TheDeveloperOps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDeveloperOps&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
+<a href="https://github.com/Aravindan29">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindan29&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
 </a>
-<a href="https://github.com/TheDeveloperOps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheDeveloperOps&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+<a href="https://github.com/Aravindan29">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aravindan29&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
 <!-- links to your social media accounts -->
 
-[1]: ![]()[https://twitter.com/TheDeveloperOps](https://www.instagram.com/_sigxma_bxla_/)
-[2]: ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/bala-murugan-ganesan/)
-[3]: [https://github.com/TheDeveloperOps](https://flowcv.me/bala-murugan)
+
+[2]: ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/aravindhan-v29/)
+[3]: [https://github.com/Aravindan29](https://aravindan29.github.io/)
 
 
