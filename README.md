@@ -5,7 +5,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60px" height="60px" />
 
-This is  Bala Murugan and I'm a software developer/ Cyber Security enthusiast. I'm from India, living in Chennai and currently doing computer science engineering final year. You can find me on [LinkedIn](https://www.linkedin.com/in/bala-murugan-ganesan/).
+This is  Bala Murugan and I'm a software developer/ Cyber Security enthusiast. I'm from India, living in Chennai and currently doing computer science engineering final year. You can find me on [LinkedIn](https://www.linkedin.com/in/aravindhan-v29/).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
