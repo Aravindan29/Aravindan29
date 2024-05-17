@@ -1,6 +1,6 @@
 <!-- -->
 
-![image]([https://github.com/TheDeveloperOps/TheDeveloperOps/assets/82383377/369ae5c6-8a0f-41a1-86a5-a77e18bbac5e](https://drive.google.com/file/d/1NNPGywXsazt7MIviS_f1RNIJS_TLz7YB/view?usp=sharing))
+![image]([https://drive.google.com/file/d/1NNPGywXsazt7MIviS_f1RNIJS_TLz7YB/view?usp=sharing])
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60px" height="60px" />
 
 This is  Bala Murugan and I'm a software developer/ Cyber Security enthusiast. I'm from India, living in Chennai and currently doing computer science engineering final year. You can find me on [LinkedIn](https://www.linkedin.com/in/bala-murugan-ganesan/).
